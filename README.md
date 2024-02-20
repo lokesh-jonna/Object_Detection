@@ -17,13 +17,13 @@ This Python script utilizes OpenCV and NumPy libraries to perform object detecti
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/object-detection-yolov3.git
+   git clone https://github.com/lokesh-jonna/object_detection.git
    ```
 
 2. Navigate to the repository directory:
 
    ```bash
-   cd object-detection-yolov3
+   cd object_detection
    ```
 
 3. Install dependencies:
@@ -39,7 +39,7 @@ This Python script utilizes OpenCV and NumPy libraries to perform object detecti
 2. Run the Python script:
 
    ```bash
-   python object_detection.py
+   python obj.py
    ```
 
 3. Press 'q' key to exit the application.
@@ -51,6 +51,5 @@ You can customize the confidence threshold and Non-Maximum Suppression (NMS) thr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 Feel free to use this template in your repository. You can copy and paste it directly into your README.md file on GitHub.
