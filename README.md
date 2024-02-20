@@ -1,6 +1,3 @@
-Certainly! Below is a template for the README.md file you can use for your GitHub repository:
-
-```markdown
 # Object Detection using YOLOv3
 
 This repository contains code for real-time object detection using YOLOv3 (You Only Look Once) model. The YOLO model is trained on the COCO (Common Objects in Context) dataset for detecting various objects in images.
@@ -56,4 +53,4 @@ You can customize the confidence threshold and Non-Maximum Suppression (NMS) thr
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Feel free to adjust the content according to your specific project details and preferences. This README.md template provides an overview of the project, installation instructions, usage guidelines, customization options, and licensing information.
+Feel free to use this template in your repository. You can copy and paste it directly into your README.md file on GitHub.
